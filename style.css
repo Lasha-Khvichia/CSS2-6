@@ -29,6 +29,9 @@ span {
   margin-right: 0;
   margin-left: 96px;
 }
+#specialList, #specialList2, #specialList3 {
+  margin-top: 0;
+}
 
 /* || Class Selectors */
 
@@ -110,4 +113,10 @@ span {
 }
 .first_article_list {
   margin-top: 32px;
+}
+span, .list_elements_wrappers img {
+  vertical-align: middle;
+}
+.list_elements_wrappers {
+  margin-top: 20px;
 }
